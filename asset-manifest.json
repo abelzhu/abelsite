@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/abelsite/static/css/main.d1b05096.chunk.css",
+    "main.js": "/abelsite/static/js/main.076d33fe.chunk.js",
+    "main.js.map": "/abelsite/static/js/main.076d33fe.chunk.js.map",
+    "runtime-main.js": "/abelsite/static/js/runtime-main.53807c41.js",
+    "runtime-main.js.map": "/abelsite/static/js/runtime-main.53807c41.js.map",
+    "static/js/2.bd3446e6.chunk.js": "/abelsite/static/js/2.bd3446e6.chunk.js",
+    "static/js/2.bd3446e6.chunk.js.map": "/abelsite/static/js/2.bd3446e6.chunk.js.map",
+    "index.html": "/abelsite/index.html",
+    "precache-manifest.ec98ed001b4345df3a561c51281b5013.js": "/abelsite/precache-manifest.ec98ed001b4345df3a561c51281b5013.js",
+    "service-worker.js": "/abelsite/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/abelsite/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.bd3446e6.chunk.js.LICENSE.txt": "/abelsite/static/js/2.bd3446e6.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/abelsite/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.53807c41.js",
+    "static/js/2.bd3446e6.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.076d33fe.chunk.js"
+  ]
+}
