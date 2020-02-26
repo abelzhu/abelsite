@@ -1,5 +1,10 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Abel: Reference resources
+http://www.ruanyifeng.com/blog/2019/09/getting-started-with-github-actions.html
+https://create-react-app.dev/
+https://abelzhu.github.io/abelsite/
+
 ## Available Scripts
 
 In the project directory, you can run:
