@@ -2,6 +2,16 @@ import React from 'react';
 import logo from './logo.svg';
 import './App.css';
 
+const helloAbel = <h1>Hello Abel from const</h1>
+const user = {
+  firstName: 'Abel',
+  lastName: 'Zhu'
+};
+
+function formatname(user) {
+  return (user.firstName + ' ' + user.lastName);
+}
+
 function App() {
   return (
     <div className="App">
@@ -18,8 +28,8 @@ function App() {
         >
           Learn React
         </a>
-        <h1>Hello Abel2</h1>
-        <h2>Welcome to Abel's page.</h2>
+        <h1>{helloAbel}</h1>
+        <h2>Welcome to {formatname(user)}'s page.</h2>
       </header>
     </div>
   );
