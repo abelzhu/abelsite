@@ -5,6 +5,13 @@ http://www.ruanyifeng.com/blog/2019/09/getting-started-with-github-actions.html
 https://create-react-app.dev/
 https://abelzhu.github.io/abelsite/
 
+starter: https://reactjs.org/docs/getting-started.html
+1. const
+2. function
+3. ReactDOM.render()
+4. console.log eventHandle
+5. jsx
+
 ## Available Scripts
 
 In the project directory, you can run:
