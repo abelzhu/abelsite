@@ -1,10 +1,15 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Goals:
+1. github actions:workflows/ci.yml
+2. npx create-react-app; yarn start;
 
 ## Abel: Reference resources
 http://www.ruanyifeng.com/blog/2019/09/getting-started-with-github-actions.html
 https://create-react-app.dev/
 https://abelzhu.github.io/abelsite/
 
+
+# History
 starter: https://reactjs.org/docs/getting-started.html
 1. const
 2. function
