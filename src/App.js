@@ -37,7 +37,7 @@ function App() {
        
         {/* {elementWithEvent} */}
         <a href="#" onClick={clickHandle}>Click me1</a>
-        <h1>Welcome to {formatname(user)}'s page.</h>
+        <h1>Welcome to {formatname(user)}'s page.</h1>
         
         <h2>自我介绍</h2>
         <p>
